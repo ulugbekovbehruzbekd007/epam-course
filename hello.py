@@ -12,5 +12,5 @@ elif age < 30:
 else:
 	 print(f"{name} from {city}, your surname is {surname}, your age is {age}, old school babe")
 
-
+print("New Uzbekistan!")
 
